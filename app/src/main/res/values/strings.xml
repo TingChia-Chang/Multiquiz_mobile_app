@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MultiQuiz</string>
+    <string name="australia_question">What is the capital of Australia?</string>
+    <string name="australia_answer_brisbane">Brisbane</string>
+    <string name="australia_answer_canberra">Canberra</string>
+    <string name="australia_answer_perth">Perth</string>
+    <string name="australia_answer_sidney">Sidney</string>
+    <string name="disable_button_text">Hint</string>
+    <string name="reset_button_text">Submit</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="taiwan_question">What is the capital of Taiwan?</string>
+    <string name="taiwan_answer_taipei">Taipei</string>
+    <string name="taiwan_answer_taichung">Taichung</string>
+    <string name="taiwan_answer_hsinchu">Hsinchu</string>
+    <string name="taiwan_answer_kaohsiung">Kaohsiung</string>
+    <string name="japan_question">What is the capital of Japan?</string>
+    <string name="japan_answer_kyoto">Kyoto</string>
+    <string name="japan_answer_osaka">Osaka</string>
+    <string name="japan_answer_nara">Nara</string>
+    <string name="japan_answer_hokkaido">Hokkaido</string>
+    <string name="germany_question">What is the capital of Germany?</string>
+    <string name="germany_answer_berlin">Berlin</string>
+    <string name="germany_answer_hamburg">Hamburg</string>
+    <string name="germany_answer_hessen">Hessen</string>
+    <string name="germany_answer_heidelberg">Heidelberg</string>
+    <string name="title_activity">Results</string>
+    <string name="total_questions">Total questions:</string>
+    <string name="total_correct">Total correct:</string>
+    <string name="total_hint">Hints used</string>
+</resources>
